@@ -1,5 +1,8 @@
 # pdftools
 
+🔒 This is an archive of the pdftools library that I've got lying alone in the internet. This module works only for Python 22.<br>
+Actual [Source Code](https://www.boddie.org.uk/david/Projects/Python/pdftools/index.html) to this module
+
 Introduction
 ---
 
